@@ -1,6 +1,6 @@
 # PX5 Microntek Commands
 
-## Commands
+## Intent Commands
 
 ### com.microntek.active
 > Reset screen saver timer
