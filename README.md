@@ -2,8 +2,9 @@
 
 ## Commands
 
-> **Reset screen saver timer**  
-> com.microntek.active
+### com.microntek.active
+> Reset screen saver timer
 
+### com.microntek.beep
 > **(unknown)**  
-> com.microntek.beep
+
