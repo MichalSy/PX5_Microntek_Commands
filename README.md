@@ -20,7 +20,6 @@
 
 ### com.microntek.VOLUME_SET
 
-
 ## Receive Intents
 
 ### com.microntek.finish
@@ -30,3 +29,11 @@
 ### com.microntek.VOLUME_CHANGED
 
 ### com.microntek.irkeyDown
+
+## Car Manager
+
+### SetParameters
+
+#### ctl_radio_frequency
+> Set current radio frequency
+> in kHz (Hz / 1000)
