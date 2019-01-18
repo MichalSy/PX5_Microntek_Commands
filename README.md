@@ -37,3 +37,7 @@
 #### ctl_radio_frequency
 > Set current radio frequency  
 > in kHz (Hz / 1000)
+
+#### ctl_radio_af
+> enable / disable af (Alternative Frequency)  
+> possible values (1 or 0)
