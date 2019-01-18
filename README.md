@@ -36,7 +36,7 @@
 
 #### ctl_radio_frequency
 > Set current radio frequency  
-> in kHz (Hz / 1000)
+> in kHz (Hz / 1000)  
 > possible values: (int)
 
 #### ctl_radio_af
